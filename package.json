@@ -1,0 +1,11 @@
+{
+  "name": "uf-cicd-calcjs-uendel",
+  "version": "1.0.0",
+  "description": "aula cd/cd",
+  "main": "index.js",
+  "scripts": {  
+    "test": "jest"
+  },
+  "author": "Uendel Martins",
+  "license": "ISC"
+}
